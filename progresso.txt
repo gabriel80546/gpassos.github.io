@@ -1,2 +1,5 @@
 17/11/2023 ->
 não se faço algo hoje, e também não sei se é melhor refatorar o codigo, colocar a biblioteca de xadrez, ou crirar uma biblioteca de xadrez unsando javascript e tudo mais
+
+20/11/2023 ->
+eu acho que é melhor só tentar colocar a bibliteca de xadrez, mesmo com seus problemas
