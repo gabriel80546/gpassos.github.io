@@ -71,4 +71,8 @@ function onLoad() {
     }
     board = Chessboard('myBoard', config)
     // --- End Example JS ----------------------------------------------------------
+    const mostrarFen = mostrarFen => {
+        document.querySelector("#oi").innerHTML = " \"" + game.fen() + "\"";
+    }
+    window.mostrarFen = mostrarFen;
 }
